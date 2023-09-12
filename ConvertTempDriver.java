@@ -8,7 +8,7 @@ public class ConvertTempDriver {
 		convertTemp.setSize(180, 100);
 		convertTemp.setLocation(500,500);
 		convertTemp.setVisible(true);
-        convertTemp.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        	convertTemp.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}//end main
 
 }//end class
